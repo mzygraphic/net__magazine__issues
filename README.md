@@ -1,2 +1,1 @@
-# net__magazine__issues
-Net Magazine Issues
+# Net Magazine Issues
